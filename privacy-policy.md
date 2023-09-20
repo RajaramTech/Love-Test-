@@ -8,7 +8,7 @@ Paid Services
 
 Some of the Services provided by the App will need to be paid for use (“Paid Services”). You may choose our annual package for the Paid Services. Once the fees are duly paid in full, you will acquire the Paid Services within the subscription period. In the future, the Software may comprise further Paid Services. If you already subscribed the Paid Services during the period the further Paid Services is updated, you will be able to use the further Paid Services during the subscription period without extra charge, provided that: 1) no extra charge is required by us; 2) you update the Software as may be required to use the further Paid Services.
 
-For any Paid Services offered by us, we accept payment via the payment method has integrated in the app. You agree to the terms of service which mentioned in the APP description.
+For any Paid Services offered by us, we accept payment via the payment method has integrated in the app. You agree to the terms of use which mentioned in the APP description.
 
 We could modify about our payment policy according to practical needs. Some free services may become Paid Services in the future. If the fee is not paid on time and in full, you will no longer be able to use the Paid Services when we start to charge fees. In the event there is a price reduction or promotion, we will not provide price protection or refund your payment. Please be aware that, as long as you purchase the paid service, we will not refund the payment to you whether or not you use such service.
 
